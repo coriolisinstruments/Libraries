@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ALPHA-9MMA
+D Alpha 9mm low profile potentiometer
+K variable resistor potentiometer
+$ENDCMP
+#
+$CMP ALPHA_20MM_ILLUM_FADER
+D Alpha 20mm fader with led
+K slide potentiometer
+$ENDCMP
+#
+$CMP ALPHA_30MM_ILLUM_FADER_
+D Alpha 30mm fader with led
+K slide potentiometer
+$ENDCMP
+#
+$CMP POT
+D Potentiometer
+K resistor variable
+$ENDCMP
+#
+$CMP POT_TRIM
+D Trim-Potentiometer
+K resistor variable trimpot trimmer
+$ENDCMP
+#
+$CMP Polyfuse_Small
+D resettable fuse, polymeric positive temperature coefficient (PPTC), small symbol
+K resettable fuse PTC PPTC polyfuse polyswitch
+$ENDCMP
+#
+#End Doc Library
