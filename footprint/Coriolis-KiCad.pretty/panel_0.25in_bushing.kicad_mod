@@ -1,0 +1,10 @@
+(module panel_0.25in_bushing (layer F.Cu) (tedit 5B79279F)
+  (attr virtual)
+  (fp_text reference MH5 (at 6.5532 -1.3716) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_text value Switch (at 6.1722 1.524) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 7.5 7.5) (drill 6.5) (layers *.Cu *.Mask))
+)

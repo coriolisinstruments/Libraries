@@ -1,0 +1,10 @@
+(module panel_thonk_jack (layer F.Cu) (tedit 5B77EB7E)
+  (attr virtual)
+  (fp_text reference MH3 (at 5.8674 -1.5494) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_text value Jack (at 5.6896 1.3208) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 7.1 7.1) (drill 6.1) (layers *.Cu *.Mask))
+)
