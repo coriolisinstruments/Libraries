@@ -1,9 +1,9 @@
-(module MusicThingModular-WQP-PJ301M-12_JACK (layer F.Cu) (tedit 5B6EE699)
+(module MusicThingModular-WQP-PJ301M-12_JACK (layer F.Cu) (tedit 5B89604C)
   (attr virtual)
-  (fp_text reference >NAME (at 1.9812 5.2324 180) (layer F.SilkS)
+  (fp_text reference U7 (at 1.9812 5.2324 180) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.0762)))
   )
-  (fp_text value Val** (at 0 0) (layer F.SilkS)
+  (fp_text value THONKICONNNEW (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
   (fp_line (start -2.79908 2.79908) (end 2.79908 2.79908) (layer F.SilkS) (width 0.06604))
