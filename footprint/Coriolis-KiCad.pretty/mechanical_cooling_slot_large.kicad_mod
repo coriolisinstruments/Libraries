@@ -1,0 +1,9 @@
+(module mechanical_cooling_slot_large (layer F.Cu) (tedit 5C55B126)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value mechanical_cooling_slot_large (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole oval (at 0 0) (size 0.8 18.2) (drill oval 0.6 18) (layers *.Cu *.Mask))
+)

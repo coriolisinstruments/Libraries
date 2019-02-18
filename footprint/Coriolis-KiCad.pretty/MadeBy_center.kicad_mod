@@ -1,0 +1,12 @@
+(module MadeBy_center (layer F.Cu) (tedit 5C5B2F07)
+  (fp_text reference REF** (at -5.25 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MadeBy_center (at -5.25 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy -3.25 2) (xy 3.25 2) (xy 3.25 -2) (xy -3.25 -2)) (layer F.SilkS) (width 0.15))
+  (fp_text user "Made by" (at -0.25 -3) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
